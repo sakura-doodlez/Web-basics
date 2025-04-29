@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+     <title>my country</title>
+      <link href="mycountry.css" type="text/css" rel="stylesheet">
+    </head>
+<body>
+    <div>
+        <h1 id="Main-title">Dominican republic</h1>
+        <p></p>
+    </div>
+
+    <div>
+      <ul>
+           <li>Favorite 1</li>
+           <li>Favorite 2</li>
+           <li> Favorite 3</li>
+      </ul>
+
+
+
+    </div>
+</body>
+</html>
